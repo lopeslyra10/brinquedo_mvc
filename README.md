@@ -1,2 +1,2 @@
 # brinquedo_mvc
- Tranquilo
+Projeto didático para Spring MVC Web estático.
